@@ -1,4 +1,4 @@
-import {create, all} from 'mathjs'
-const math = create(all)
+import {create, all} from 'mathjs';
+const math = create(all);
 
 print("test");
